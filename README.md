@@ -2,17 +2,6 @@
 
 ## Overview
 
-This project demonstrates the **Creator Principle** in software design using two approaches:
-1. **With Creator Principle**: The object creation responsibility is assigned to the class that uses the object.
-2. **Without Creator Principle**: The object is created outside and passed to the class that uses it.
-
-The purpose of this project is to showcase how responsibility assignment affects the structure and organization of the code.
-
----
-# Demonstration of Creator Principle in Software Design
-
-## Overview
-
 This project demonstrates the **Creator Principle** using two different approaches:
 
 ### With Creator Principle:
